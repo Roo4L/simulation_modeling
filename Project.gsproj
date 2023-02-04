@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>f5ef3c9e-a511-44aa-851d-adfda03ca73e</Guid>
+  <Name>Ivanov_B19513_lab3</Name>
+  <Description></Description>
+  <CreationDate>2022-12-07T21:53:11.3182665+03:00</CreationDate>
+  <SimModels>
+    <SimModel>
+      <Name>Модель 1</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>07.12.2022 21:53:11</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate></RunDate>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>cec4f3a1-d5cc-49f3-84de-20affa66fffb</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>07.12.2022 21:53:11</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>
